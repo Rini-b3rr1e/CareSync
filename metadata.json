@@ -1,0 +1,5 @@
+{
+  "name": "CareSync",
+  "description": "A modern healthcare scheduling platform designed to connect patients and professionals. Patients can manage medications, doctor follow-ups, and recommended exercises, while doctors can monitor patient adherence and schedules.",
+  "requestFramePermissions": []
+}
